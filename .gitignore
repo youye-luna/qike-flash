@@ -1,0 +1,11 @@
+# 构建产物
+/target/
+
+# 本机分发目录（含 exe、安装包、日志、台账、settings.json 等运行时数据）
+/release/
+
+# 本机截图/临时目录
+/.screenshots/
+
+# 本机编译配置（含本机盘符与构建路径）
+/.cargo/
