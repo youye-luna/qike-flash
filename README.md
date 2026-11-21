@@ -2,7 +2,7 @@
 
 多 U 盘 / SD 卡批量烧录工具。一块镜像，同时写入多块设备，写完后逐盘无缓存回读校验，全程台账可查。
 
-- 版本：0.0.1-α
+- 版本：0.0.1-alpha
 - 平台：Windows
 - 协议：[Apache-2.0](LICENSE)
 - 作者：[youye-luna](https://github.com/youye-luna)
