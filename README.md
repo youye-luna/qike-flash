@@ -6,7 +6,7 @@
 - 平台：Windows
 - 协议：[Apache-2.0](LICENSE)
 - 作者：[youye-luna](https://github.com/youye-luna)
-- 注意：该软件属于测试阶段，切勿在生产环境使用！
+注意：该软件属于测试阶段，切勿在生产环境使用！
   
 ## 功能特性
 
